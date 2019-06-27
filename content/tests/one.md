@@ -5,3 +5,6 @@ draft: false
 ---
 
 ## this is a test (ONe)
+
+This test will show if my new caddy-hugo image is working &&
+if my Caddyfile is properly bilding blog
