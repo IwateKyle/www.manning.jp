@@ -1,6 +1,8 @@
-baseURL = "http://www.manning.jp/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Kyle Manning"
+paginate = "3"
 theme="mainroad"
+googleAnalytics = "UA-28001009-2" # Enable Google Analytics by entering your tracking id
 
 
