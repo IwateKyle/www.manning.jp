@@ -6,4 +6,8 @@ draft: false
 
 ## This is a struggle.
 
-I'm trying to get webhooks activated for github to auto deliver files to my website. So far no luck. It's after 6pm and I'm still struggling.
+Finally, I have my site back up and running.
+
+~ FAST !
+
+I went through a few days of struggling to get a few different parts working together, but now it's up and running.
