@@ -1,10 +1,17 @@
 ---
 title: "This Really Is My First Post"
+description: ""
 date: 2019-06-28T12:44:26+09:00
-draft: false
+thumbnail: "/posts/this-really-is-my-first-post/img/action-bike-rider-1200.jpg"
+categories:
+  - ""
+tags:
+  - ""
 ---
 
 # This really is my first post
+
+- just changed it to page bundle -
 
 Yes, this really is my first post. In a long time. I struggle for months on different decisions such as
 

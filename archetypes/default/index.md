@@ -2,7 +2,7 @@
 title: "{{ replace .TranslationBaseName '-' ' ' | title }}"
 description: ""
 date: "{{ .Date }}"
-thumbnail: ""
+thumbnail: "/img/action-bike-rider.jpg"
 categories:
   - ""
 tags:
