@@ -2,7 +2,7 @@
 title: "This Really Is My First Post"
 description: ""
 date: 2019-06-28T12:44:26+09:00
-thumbnail: "/posts/this-really-is-my-first-post/img/action-bike-rider-1200.jpg"
+thumbnail: "img/action-bike-rider-1200.jpg"
 categories:
   - ""
 tags:
