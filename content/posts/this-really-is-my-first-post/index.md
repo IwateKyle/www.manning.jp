@@ -1,6 +1,6 @@
 ---
 title: "This Really Is My First Post"
-description: ""
+description: "This is my absolute first post for this site.  It is completely meaningless except to those who choose to apply meaning to it."
 date: 2019-06-28T12:44:26+09:00
 thumbnail: "img/action-bike-rider-1200.jpg"
 thumbnail_item: "img/action-bike-rider-100.jpg"
@@ -12,6 +12,13 @@ tags:
   - "GoLang"
   - "Blogging"
   - "Static Sites"
+
+lead: "Example lead - highlighted near the title"
+comments: false # Enable/disable Disqus comments. Default value: true
+authorbox: true # Enable authorbox for specific post
+toc: false # Optional, enable Table of Contents for specific post
+mathjax: true # Optional, enable MathJax for specific post
+menu: main # Optional, add page to a menu. Options: main, side, footer
 ---
 
 # This really is my first post

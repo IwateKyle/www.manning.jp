@@ -43,12 +43,12 @@ googleAnalytics = "UA-28001009-2" # Enable Google Analytics by entering your tra
 
 [Params.widgets.social]
   # Enable parts of social widget
-  facebook = "username"
-  twitter = "username"
-  instagram = "username"
-  linkedin = "username"
-  telegram = "username"
-  github = "username"
-  gitlab = "username"
-  bitbucket = "username"
-  email = "example@example.com"
+  facebook = "IwateKyle"
+  twitter = "kylejapan"
+  instagram = "kylejapan"
+  linkedin = "kyle-manning-35046b"
+  telegram = "@kylemanning"
+  github = "IwateKyle"
+  gitlab = "kyle.manning"
+  bitbucket = "KitakamiKyle"
+  email = ""
