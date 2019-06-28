@@ -3,10 +3,15 @@ title: "This Really Is My First Post"
 description: ""
 date: 2019-06-28T12:44:26+09:00
 thumbnail: "img/action-bike-rider-1200.jpg"
+thumbnail_item: "img/action-bike-rider-100.jpg"
 categories:
-  - ""
+  - "news"
+  - "technology"
 tags:
-  - ""
+  - "Hugo cms"
+  - "GoLang"
+  - "Blogging"
+  - "Static Sites"
 ---
 
 # This really is my first post
