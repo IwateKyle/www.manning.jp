@@ -70,7 +70,7 @@ This blog is acting as a counseling session for me right now.
 
 ## Divide and Conquer
 
-So, I'm looking at dividing my topics up into these initial categories.
+I'm looking at dividing my topics up into distinct sites (blogs) to best cover these various categories.
 
 Topics that will stay on this site would be
 
@@ -79,10 +79,13 @@ Topics that will stay on this site would be
 - diet and health ramblings
 - maybe some general techie stuff.
 
-another spin off site would cover my techno-geek talk stuff
+Other spin off sites would cover my techno-geek talk stuff. These would include the topics and more that I listed earlier in the tech stuff. I'm not
 
-- this would include the topics and more that I listed earlier in the tech stuff.
+*.TLD (Top Level Domains)
+I'm not thinking necessarily about purchasing new TLDs. I'll probably just create some subdomains off of my current manning.jp domain to be something like *technology.manning.jp*, or *blender.manning.jp\*, etc,. It just depends on how much I imagine I'll have to say or desire to say about each unique category.
+
+Blender is my favorite topic right now, so out of the gate, I'll probably be thinking about cornering that topic into it's own site. Let's see!
 
 ## Unresolved
 
-Well, anyway that this point, it's still up-in-the-air about how I will go about this. Please wait in front of your computer for another post.
+Well, anyway at this point, it's still up-in-the-air about how I will go about this. Please wait in front of your computer for another post.
